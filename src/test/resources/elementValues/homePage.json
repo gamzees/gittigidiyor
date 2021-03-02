@@ -1,0 +1,72 @@
+[
+  {
+    "key": "logo",
+    "value": "//*[@alt='Vatan Bilgisayar']",
+    "type": "xpath"
+  },
+  {
+    "key": "girisYap",
+    "value": "//*[@id='btnMyAccount']",
+    "type": "xpath"
+  },
+  {
+    "key": "girisYapAlt",
+    "value": "//*[contains(text(), 'Giriş Yap')]",
+    "type": "xpath"
+  },
+  {
+    "key": "email",
+    "value": "//*[@id='email']",
+    "type": "xpath"
+  },
+  {
+    "key": "password",
+    "value": "//*[@id='pass']",
+    "type": "xpath"
+  },
+  {
+    "key": "girisYapButon",
+    "value": "//*[@id='login-button']",
+    "type": "xpath"
+  },
+  {
+    "key": "search",
+    "value": "//*[@id='navbar-search-input']",
+    "type": "xpath"
+  },
+  {
+    "key": "liste",
+    "value": "//div[@class='product-list__product-name']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteEkle",
+    "value": "//*[@id='add-to-cart-button']",
+    "type": "xpath"
+  },
+  {
+    "key": "hafiza",
+    "value": "//*[@data-value='256 GB']",
+    "type": "xpath"
+  },
+  {
+    "key": "renk",
+    "value": "//*[@data-value='Yeşil']",
+    "type": "xpath"
+  },
+  {
+    "key": "kapaButonu",
+    "value": "//*[@class='fancybox-button fancybox-close-small']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepeteGit",
+    "value": "//*[@class='btn-basket--text']",
+    "type": "xpath"
+  },
+  {
+    "key": "sepetiOnayla",
+    "value": "//*[@class='icon-angle-right']",
+    "type": "xpath"
+  }
+]
